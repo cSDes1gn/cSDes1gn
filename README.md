@@ -7,7 +7,7 @@ Working on telecommunications, biohacking and dynamic neural networks.
 
 Cloud Native, REST APIs, PCB Design, Embedded IOT.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cSDes1gn)](https://github.com/cSDes1gn/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cSDes1gn?theme=github_dark)](https://github.com/cSDes1gn/github-readme-stats)
 
 
 <!--

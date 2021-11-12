@@ -1,7 +1,7 @@
 # Christian S
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cSDes1gn.visitor-badge)
 
-I have experience and passion for the biotechnology industry and fast-paced startup environments. I am currently involved in projects on biohacking, inventory management and secure telecommunications. Moving forward, I plan to improve my hardware design and firmware integration with modern ARM microcontrollers.
+I have experience and passion for the biotechnology industry and fast-paced startup environments. I am currently involved in projects on biohacking, inventory management and optical telecommunications. Moving forward, I plan to improve my hardware design and firmware integration with modern ARM microcontrollers.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cSDes1gn&theme=github_dark&show_icons=t)](https://github.com/cSDes1gn/github-readme-stats)
 

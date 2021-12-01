@@ -1,9 +1,9 @@
 # Christian S
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=cSDes1gn.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ztnel.visitor-badge)
 
 I have experience and passion for the biotechnology industry and fast-paced startup environments. I am currently involved in projects on biohacking, inventory management and optical telecommunications. Moving forward, I plan to improve my hardware design and firmware integration with modern ARM microcontrollers.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cSDes1gn&theme=github_dark&show_icons=t)](https://github.com/cSDes1gn/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ztnel&theme=github_dark&show_icons=t)](https://github.com/ztnel/github-readme-stats)
 
 ## Languages
 ![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![img](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![img](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![img](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![img](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)

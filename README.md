@@ -1,5 +1,6 @@
 # Christian S
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ztnel.visitor-badge)
+![follow](https://img.shields.io/github/followers/ztnel.svg?style=social&label=Follow&maxAge=2592000)
 
 I have experience and passion for the biotechnology industry and fast-paced startup environments. I am currently involved in projects on biohacking, inventory management and optical telecommunications. Moving forward, I plan to improve my hardware design and firmware integration with modern ARM microcontrollers.
 

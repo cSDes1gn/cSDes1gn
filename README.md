@@ -7,7 +7,7 @@ I have experience and passion for the biotechnology industry and fast-paced star
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ztnel&theme=github_dark&show_icons=t)](https://github.com/ztnel/github-readme-stats)
 
 ## Languages
-![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![img](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![img](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![img](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![img](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+[![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Incuvers/macro-logger) ![img](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![img](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![img](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![img](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ## Technologies
 ### Embedded

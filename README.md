@@ -3,7 +3,7 @@
 
 I have experience and passion for the biotechnology industry and fast-paced startup environments. I am currently involved in projects on biohacking, inventory management and optical telecommunications. Moving forward, I plan to improve my hardware design and firmware integration with modern ARM microcontrollers.
 
-生物工学実業と新興企業に体験があります。今まで、生物工学と光学式テレコムなどの事業で働いている。これから、目標はPCBなどのハードウェア工学とファームウェア総合を磨きたいです。
+生物工学実業と新興企業に体験があります。今まで、生物工学と光学式テレコムなどの事業で働いている。これから、PCBなどのハードウェア工学とファームウェア開発を磨きたい。
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ztnel&theme=github_dark&show_icons=t)](https://github.com/ztnel/github-readme-stats)
 

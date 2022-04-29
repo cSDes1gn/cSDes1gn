@@ -5,8 +5,8 @@ I have experience and passion for the biotechnology industry and fast-paced star
 
 生物工学実業と新興企業に体験があります。今まで、生物工学と光学式テレコムなどの事業で働いている。これから、PCBなどのハードウェア工学とファームウェア開発を磨きたい。
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ztnel&theme=github_dark&show_icons=t)](https://github.com/ztnel/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ztnel&theme=github_dark&layout=compact)](https://github.com/ztnel/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ztnel&theme=github_dark&show_icons=t)
+![Github Lang](https://github.com/ztnel/github-stats/blob/master/generated/languages.svg)
 
 ## Languages | プルグラム言語
 [![img](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Incuvers/macro-logger) [![img](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ztnel/merase) [![img](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Incuvers/iris) [![img](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://github.com/Incuvers/train-classifier) [![img](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Masterbomb/api) [![img](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/Masterbomb/client)
